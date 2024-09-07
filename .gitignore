@@ -2,4 +2,7 @@ cache/
 out/
 .vscode
 .idea
+<<<<<<< HEAD
 .env
+=======
+>>>>>>> beta
