@@ -1,0 +1,3 @@
+[submodule "sentiment-polls/lib/forge-std"]
+	path = sentiment-polls/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
