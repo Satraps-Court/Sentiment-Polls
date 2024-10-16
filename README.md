@@ -1,6 +1,6 @@
 # Sentiment-Polls
 
-Smart contract for Satraps Sentiment Polls. Feel free to contribute if you are a Satrap community member.
+Smart contract for Satraps Sentiment Polls. Feel free to contribute if you are a Satrap community member. Use the beta branch for development. 
 
 # Forge Standard Library • [![CI status](https://github.com/foundry-rs/forge-std/actions/workflows/ci.yml/badge.svg)](https://github.com/foundry-rs/forge-std/actions/workflows/ci.yml)
 
